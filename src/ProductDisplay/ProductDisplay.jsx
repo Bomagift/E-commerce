@@ -11,6 +11,7 @@ import Logo from "../ProductDisplay_Components/Logo";
 import BreadCrumb from "../ProductDisplay_Components/BreadCrumb";
 import Tabs from "../ProductDisplay_Components/Tabs";
 import Layout from "../ProductDisplay_Components/Layout";
+import Productlist from "../ProductDisplay_Components/Productlist"
 
 function ProductDisplay() {
   return (
@@ -29,7 +30,7 @@ function ProductDisplay() {
 
       <Tabs />
       <Layout />
-      <ProductDashboard />
+      <Productlist/>
       <Logo />
       <Social />
       <Footer />

@@ -3,10 +3,10 @@ import Header from "../E-commerce_landingpage_components/Header";
 import Navbar from "../E-commerce_landingpage_components/Navbar";
 import Social from "../E-commerce_landingpage_components/Social";
 import Footer from "../E-commerce_landingpage_components/Footer";
-import ProductDashboard from "../E-commerce_landingpage_components/ProductDashboard";
 import PaymentBreadcrumbs from "../Payment_components/PaymentBreadcrumbs";
 import CartDetails from "../Payment_components/CartDetails";
 import OrderSummary from "../Payment_components/OrderSummary";
+import PaymentProductlist from "../Payment_components/PaymentProductlist";
 
 function Payment() {
   return (
@@ -20,7 +20,7 @@ function Payment() {
             <CartDetails />
             <OrderSummary />
           </div>
-          <ProductDashboard />
+          <PaymentProductlist/>
         </div>
       </>
       <div className="Ashcolor">

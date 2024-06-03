@@ -4,7 +4,6 @@ import Navbar from "../E-commerce_landingpage_components/Navbar";
 import "./LandingPage.css";
 import FunitureGridpage from "../E-commerce_landingpage_components/FunitureGridpage";
 import BestsellerHeading from "../E-commerce_landingpage_components/BestsellerHeading";
-import ProductDashboard from "../E-commerce_landingpage_components/ProductDashboard";
 import Feature from "../E-commerce_landingpage_components/Feature";
 import NewProduct from "../E-commerce_landingpage_components/NewProduct";
 import Featured_Post from "../E-commerce_landingpage_components/Featured_Post";
@@ -13,14 +12,15 @@ import Gallery from "../E-commerce_landingpage_components/Gallery";
 import Footer from "../E-commerce_landingpage_components/Footer";
 import Social from "../E-commerce_landingpage_components/Social";
 import CallToAction from "../E-commerce_landingpage_components/CallToAction";
+import LandingProductList from "./LandingProductList";
+
 function LandingPage() { 
   return (
     <div className="landingPage-container">
       <Header />
       <Navbar />
       <FunitureGridpage />
-      <BestsellerHeading />
-      <ProductDashboard />
+      <LandingProductList />
       <BestsellerHeading />
       <Feature />
       <Featured_Post />

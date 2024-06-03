@@ -1,3 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Familjen+Grotesk:ital,wght@0,400..700;1,400..700&family=Galada&family=Inter:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Pompiere&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body{
+  font-family: montserrat;
+}
 .home-page {
   display: flex;
   justify-content: space-around;
@@ -10,7 +15,6 @@
   height: 54px;
   display: flex;
   justify-content: flex-start;
-
 }
 
 .last-footer h6 {
@@ -22,9 +26,8 @@
 }
 
 @media (max-width: 768px) {
-  .home-page{
+  .home-page {
     display: flex;
     flex-direction: column;
   }
-  
 }

@@ -1,0 +1,63 @@
+.App {
+    font-family: Montserrat;
+    text-align: center;
+    margin: 4rem;
+    padding-left: 3rem;
+  }
+  
+  .App h3 {
+    margin: .6rem auto;
+    text-align: left;
+    margin-left: 5%;
+  }
+  
+  .App h4 {
+    color: rgba(115, 115, 115, 1);
+  }
+  
+  .products {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-top: 2rem;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .product {
+    background: #fff;
+    border-radius: 1px;
+    overflow: hidden;
+    transition: transform 0.2s;
+    flex: 1 1 calc(20% - 20px);
+    border: 1px solid #ccc;
+    padding: 16px;
+    width: 200px;
+    text-align: left;
+  }
+  
+  .product img {
+    width: 100%;
+    height:auto ;
+    border-radius: 4px;
+  }
+  
+  .prod-price {
+    font-weight: bold;
+  }
+  
+  .prod-rating {
+    color: #ff9800;
+  }
+  
+  .product-btn {
+    margin-top: 2rem;
+    padding: .8rem;
+    background-color: #fff;
+    border: 1px solid rgba(35, 165, 240, 0.349);
+    border-radius: 3px;
+    color: rgba(35, 166, 240, 1);
+    cursor: pointer;
+    font-size: .7rem;
+    font-weight: 600;
+  }
