@@ -5,12 +5,12 @@ function Header() {
     <header className="header">
       <div className="header-left">
         <span className="contact">
-          <img src="/public/Images/Vector (1).png" alt="" className="icon" />
+          <img src="/Images/Vector (1).png" alt="" className="icon" />
           <h6>(225) 555-0118</h6>
         </span>
 
         <span className="email">
-          <img src="/public/Images/Vector (4).png" alt="" className="icon" />
+          <img src="/Images/Vector (4).png" alt="" className="icon" />
           <h6>michelle.rivera@example.com</h6>
         </span>
       </div>
@@ -22,12 +22,12 @@ function Header() {
       <div className="header-right">
         <h6>Follow Us:</h6>
         <a href="#instagram" className="social-icon">
-          <img src="/public/Images/a.png" alt="" className="icon" />
+          <img src="/Images/a.png" alt="" className="icon" />
         </a>
 
         <a href="#youtube" className="social-icon">
           <img
-            src="/public/Images/icn settings icn-xs (2).png"
+            src="/Images/icn settings icn-xs (2).png"
             alt=""
             className="icon"
           />
@@ -35,7 +35,7 @@ function Header() {
 
         <a href="#facebook" className="social-icon">
           <img
-            src="/public/Images/icn settings icn-xs.png"
+            src="/Images/icn settings icn-xs.png"
             alt=""
             className="icon"
           />
@@ -43,7 +43,7 @@ function Header() {
 
         <a href="#twitter" className="social-icon">
           <img
-            src="/public/Images/icn settings icn-xs (1).png"
+            src="/Images/icn settings icn-xs (1).png"
             alt=""
             className="icon"
           />

@@ -5,7 +5,7 @@ function FunitureGridpage() {
   return (
     <div className="container">
       <div className="item large-vertical">
-        <img src="/public/Images/media bg-cover (2).png" alt="Item 1" />
+        <img src="/Images/media bg-cover (2).png" alt="Item 1" />
         <div className="overlay">
           <span>5 Items</span>
           <h2>FURNITURE</h2>
@@ -15,7 +15,7 @@ function FunitureGridpage() {
       
       <div className="right-container">
         <div className="item large-horizontal">
-          <img src="/public/Images/media bg-cover (1).png" alt="Item 2" />
+          <img src="/Images/media bg-cover (1).png" alt="Item 2" />
           <div className="overlay">
             <span>5 Items</span>
             <h2>FURNITURE</h2>
@@ -34,7 +34,7 @@ function FunitureGridpage() {
           </div>
 
           <div className="item small">
-            <img src="/public/Images/media bg-cover (4).png" alt="Item 4" />
+            <img src="/Images/media bg-cover (4).png" alt="Item 4" />
             <div className="overlay">
               <span>5 Items</span>
               <h2>FURNITURE</h2>

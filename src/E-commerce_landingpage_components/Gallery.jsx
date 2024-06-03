@@ -4,15 +4,15 @@ import './Gallery.css';
 
 const Gallery = () => {
     const images = [
-        '/public/Images/unsplash_0y8p69vwIYM.png', 
-        '/public/Images/unsplash_ah7yIXWrtKs.png',
-        '/public/Images/unsplash_6_dx4H4yi1Y.png',
-        '/public/Images/unsplash_GHztzvLLOdQ.png',
-        '/public/Images/unsplash_UUTOuXqaExk.png',
-        '/public/Images/unsplash_rhn8ff1G_QY.png',
-        '/public/Images/unsplash_jo40QKbxUP0.png',
-        '/public/Images/unsplash_QLGA5Zv3doo.png',
-        '/public/Images/unsplash_1R1ecHV4i0Y.png'
+        '/Images/unsplash_0y8p69vwIYM.png', 
+        '/Images/unsplash_ah7yIXWrtKs.png',
+        '/Images/unsplash_6_dx4H4yi1Y.png',
+        '/Images/unsplash_GHztzvLLOdQ.png',
+        '/Images/unsplash_UUTOuXqaExk.png',
+        '/Images/unsplash_rhn8ff1G_QY.png',
+        '/Images/unsplash_jo40QKbxUP0.png',
+        '/Images/unsplash_QLGA5Zv3doo.png',
+        '/Images/unsplash_1R1ecHV4i0Y.png'
     ];
 
     return (

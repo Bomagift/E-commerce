@@ -10,12 +10,12 @@ function Social() {
         
         <div className="social-right">
           <a href="#facebook" className="social-icon">
-            <img src="/public/Images/facebook (1).png" alt="" className="icon" />
+            <img src="/Images/facebook (1).png" alt="" className="icon" />
           </a>
 
           <a href="#instagram" className="social-icon">
             <img
-              src="/public/Images/instagram (1).png"
+              src="/Images/instagram (1).png"
               alt=""
               className="icon"
             />
@@ -23,7 +23,7 @@ function Social() {
 
           <a href="#twitter" className="social-icon">
             <img
-              src="/public/Images/twitter (1).png"
+              src="/Images/twitter (1).png"
               alt=""
               className="icon"
             />

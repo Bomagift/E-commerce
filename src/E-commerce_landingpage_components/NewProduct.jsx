@@ -51,24 +51,24 @@ const Card = ({
 const NewProduct = () => {
   const cardData = [
     {
-      image: "/public/Images/fixed-height (3).png",
+      image: "/Images/fixed-height (3).png",
       date: "22 April 2021",
       comments: 10,
       title: "Loudest à la Madison #1 (L'integral)",
       CommentImage: "/public/Images/Vector (8).png",
-      DateImage: "/public/Images/icon cool-icon-1.png",
-      LearnImage: "/public/Images/@none.png",
+      DateImage: "/Images/icon cool-icon-1.png",
+      LearnImage: "/Images/@none.png",
       description:
         "We focus on ergonomics and meeting you where you work. It's only a keystroke away.",
     },
     {
-      image: "/public/Images/fixed-height (2).png",
+      image: "/Images/fixed-height (2).png",
       date: "22 April 2021",
       comments: 10,
       title: "Loudest à la Madison #1 (L'integral)",
-      CommentImage: "/public/Images/Vector (8).png",
-      DateImage: "/public/Images/icon cool-icon-1.png",
-      LearnImage: "/public/Images/@none.png",
+      CommentImage: "/Images/Vector (8).png",
+      DateImage: "/Images/icon cool-icon-1.png",
+      LearnImage: "/Images/@none.png",
       description:
         "We focus on ergonomics and meeting you where you work. It's only a keystroke away.",
     },
@@ -77,9 +77,9 @@ const NewProduct = () => {
       date: "22 April 2021",
       comments: 10,
       title: "Loudest à la Madison #1 (L'integral)",
-      CommentImage: "/public/Images/Vector (8).png",
-      DateImage: "/public/Images/icon cool-icon-1.png",
-      LearnImage: "/public/Images/@none.png",
+      CommentImage: "/Images/Vector (8).png",
+      DateImage: "/Images/icon cool-icon-1.png",
+      LearnImage: "/Images/@none.png",
       description:
         "We focus on ergonomics and meeting you where you work. It's only a keystroke away.",
     },

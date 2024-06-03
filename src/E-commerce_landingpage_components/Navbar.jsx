@@ -8,7 +8,7 @@ function Navbar() {
         <div className="nav-menu">
           <a href="#home">Home</a>
           <a href="#shop">
-            Shop <img src="/public/Images/Vector (6).png" alt="" />
+            Shop <img src="/Images/Vector (6).png" alt="" />
           </a>
           <a href="#about">About</a>
           <a href="#blog">Blog</a>
@@ -20,14 +20,14 @@ function Navbar() {
       <div className="navbar-right">
         <a href="#login" className="nav-icon">
           <img
-            src="/public/Images/Vector (5).png"
+            src="/Images/Vector (5).png"
             alt="Login"
             className="icons-2"
           />{" "}
           Login / Register
         </a>
         <a href="#search" className="nav-icons">
-          <img src="/public/Images/li (1).png" alt="Search" className="icons" />
+          <img src="/Images/li (1).png" alt="Search" className="icons" />
         </a>
         <a href="#cart" className="nav-icons" >
           <img src="/Images/Vector (15).png" alt="Cart" className="icons-3" />
