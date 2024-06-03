@@ -73,7 +73,7 @@ const NewProduct = () => {
         "We focus on ergonomics and meeting you where you work. It's only a keystroke away.",
     },
     {
-      image: "/public/Images/fixed-height (1).png",
+      image: "/Images/fixed-height (1).png",
       date: "22 April 2021",
       comments: 10,
       title: "Loudest à la Madison #1 (L'integral)",
