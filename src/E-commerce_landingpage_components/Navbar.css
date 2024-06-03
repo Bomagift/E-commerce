@@ -14,6 +14,10 @@
   align-items: center;
 }
 
+.navbar-left h3{
+  cursor: pointer;
+}
+
 .navbar-left {
   flex: 1;
 }

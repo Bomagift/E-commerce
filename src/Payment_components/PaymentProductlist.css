@@ -9,7 +9,7 @@
     margin: .6rem auto;
     text-align: left;
   }
-  
+
   .card:hover {
     transform: translateY(-5px);
   }
@@ -56,4 +56,10 @@
     cursor: pointer;
     font-size: .7rem;
     font-weight: 600;
+  }
+
+  @media (max-width: 768px) {
+    .products{
+        display: none;
+    }
   }

@@ -17,7 +17,7 @@ const Testimonial = () => {
             <span>☆</span>
           </div>
           <h6>
-            Plate helps you see how many more days you need to work to reach
+            Plate helps you see how many more days you need to work to <br /> reach
             your financial goal.
           </h6>
           <div className="testimonial-author-role">
