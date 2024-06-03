@@ -25,7 +25,7 @@ function FunitureGridpage() {
 
         <div className="small-container">
           <div className="item small">
-            <img src="/public/Images/media bg-cover (3).png" alt="Item 3" />
+            <img src="/Images/media bg-cover (3).png" alt="Item 3" />
             <div className="overlay">
               <span>5 Items</span>
               <h2>FURNITURE</h2>
