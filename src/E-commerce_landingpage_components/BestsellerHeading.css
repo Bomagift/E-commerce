@@ -1,0 +1,30 @@
+.bestseller-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: Montserrat;
+  margin-top: 7%;
+}
+
+.writeup h4 {
+  font-size: 20px;
+  font-weight: 400;
+  color: #737373;
+}
+
+.writeup h3 {
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+  color: #252b42;
+}
+
+.writeup p {
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  color: #737373;
+  text-align: center;
+}

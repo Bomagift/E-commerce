@@ -1,0 +1,39 @@
+.breadcrumb-2 {
+    display: flex;
+    align-items: center;
+    font-family: montserrat;
+    margin-left: 5%;
+    padding: 3%;
+    
+  }
+  
+  .breadcrumb-2 ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .breadcrumb-2 li {
+    margin-right: 5px;
+  }
+  
+  .breadcrumb-2 li a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+  }
+  
+  .breadcrumb-2 li::after {
+    content: ">";
+    margin-left: 5px;
+    color: #ccc;
+  }
+  
+  .breadcrumb-2 li:last-child::after {
+    content: "";
+  }
+  
+  .breadcrumb-2 li:last-child {
+    color: #ccc;
+  }

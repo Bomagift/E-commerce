@@ -1,0 +1,26 @@
+.featured-post{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: Montserrat;
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+
+.post h6{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+     color: #23A6F0;
+}
+
+.post h2{
+font-size: 40px;
+font-weight: 700;
+line-height: 50px;
+color: #252B42;
+text-align: center;
+
+}

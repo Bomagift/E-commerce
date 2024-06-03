@@ -1,0 +1,14 @@
+
+.gallery-container {
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+    margin: 20px;
+    
+    
+}
+
+.gallery-image {
+    width: 141px;
+    height: 141px;
+}

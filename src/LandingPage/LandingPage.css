@@ -1,0 +1,30 @@
+.home-page {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  margin-top: 3%;
+}
+
+.last-footer {
+  background-color: #fafafa;
+  height: 54px;
+  display: flex;
+  justify-content: flex-start;
+
+}
+
+.last-footer h6 {
+  color: #737373;
+  text-align: left;
+  font-size: 14px;
+  font-weight: 700;
+  margin-left: 10%;
+}
+
+@media (max-width: 768px) {
+  .home-page{
+    display: flex;
+    flex-direction: column;
+  }
+  
+}

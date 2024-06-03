@@ -1,0 +1,31 @@
+.shopping-cart {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  padding-bottom: 6%;
+  
+}
+
+.Background{
+  background-color: #FAFAFA;
+}
+
+.Ashcolor{
+  background-color: #ffff;
+}
+
+@media (max-width: 768px) {
+  .shopping-cart{
+    display: flex;
+    flex-direction: column;
+  
+  }
+  .card-container{
+    display: none;
+  }
+
+  .mainContainer3{
+    width: 100%;
+    height: 100%;
+  }
+}

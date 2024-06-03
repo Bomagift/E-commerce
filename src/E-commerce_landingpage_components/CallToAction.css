@@ -1,0 +1,77 @@
+.container-large {
+    position: relative;
+  }
+
+  .container-large img{
+    width: 1440px;
+    height:640px ;
+
+
+  }
+  .overlay-1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color:black ;
+    text-align: center;
+  }
+  
+  .overlay-1 h6{
+font-size: 14px;
+font-weight: 700;
+text-align: center;
+color: #23A6F0;
+
+  }
+
+  .overlay-1 h2{
+font-size: 40px;
+font-weight: 700;
+text-align: center;
+color:#252B42 ;
+
+  }
+
+  .overlay-1 p{
+font-size: 14px;
+font-weight: 400;
+color: #737373;
+text-align: center;
+
+  }
+
+  .overlay-1 h3{
+font-size: 24px;
+font-weight: 700;
+color:#23856D ;
+text-align: center;
+
+  }
+
+  .overlay-1 button{
+    width: 292px;
+height:52px;
+gap: 10px;
+background-color: #23A6F0;
+font-size: 14px;
+font-weight: 700;
+padding:15px, 40px, 15px, 40px;
+border-radius: 5px;
+color: #FFFFFF;
+text-align: center;
+border: none;
+cursor: pointer;
+
+  }
+
+  .button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1%;
+  }

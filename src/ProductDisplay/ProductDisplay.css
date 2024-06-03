@@ -1,0 +1,19 @@
+.product-display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    background-color: #fafafa;
+  }
+
+  .bread-crumb{
+    background-color: #fafafa;
+
+  }
+
+  @media (max-width: 768px) {
+    .product-display{
+      display: flex;
+      flex-direction: column;
+    }
+  }
