@@ -75,3 +75,11 @@ cursor: pointer;
     align-items: center;
     margin-top: 1%;
   }
+
+  @media (max-width: 768px) {
+    .container-large{
+      width: 414px;
+      height: auto;
+
+    }
+  }

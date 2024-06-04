@@ -54,7 +54,7 @@ export default function LandingProductList() {
 
     return (
       <div>
-        <div className="App">
+        <div className="FirstApp">
           <div className="App-header">
             <h4>Featured Products</h4>
             <h2>BESTSELLER PRODUCTS</h2>

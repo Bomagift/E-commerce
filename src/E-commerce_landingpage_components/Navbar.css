@@ -107,7 +107,7 @@
 }
 
 /* Media Query for Mobile Device */
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .nav-menu{
     display: none;
     flex-direction: column;
@@ -118,7 +118,7 @@
     background-color: white;
     text-align: center;
     z-index: 1;
-    margin-bottom: 10%;
+    gap: 10%;
   }
 
   .nav-menu.open {
