@@ -16,7 +16,7 @@ body{
   background-color: #fafafa;
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .product-display {
     display: flex;
     flex-direction: column;

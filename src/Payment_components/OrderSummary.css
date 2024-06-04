@@ -101,7 +101,7 @@
   height: 12px;
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .order-summary {
     width: 414px;
     height: 602px;

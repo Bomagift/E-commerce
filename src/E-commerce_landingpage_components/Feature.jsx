@@ -22,7 +22,7 @@ const feature = [
 
 const Feature = () => {
   return (
-    <div className="features-container">
+    <div className="Features-container2">
       {feature.map((feature, index) => (
         <div className="feature" key={index}>
           <img

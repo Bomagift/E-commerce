@@ -121,7 +121,7 @@
   color: #3a3c3e;
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .cart-details {
     width: 414px;
     height: 602px;

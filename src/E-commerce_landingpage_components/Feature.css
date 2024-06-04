@@ -2,7 +2,7 @@ body {
     font-family: montserrat;
 }
 
-.features-container {
+.Features-container2{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -42,8 +42,8 @@ p {
 
 }
 
-@media (max-width: 100vw) {
-    .features-container{
+@media screen and (max-width: 768px) {
+    .Features-container2{
         display: flex;
         flex-direction: column;
     }
