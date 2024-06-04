@@ -58,7 +58,7 @@ export default function Productlist() {
           <div className="App-header">
             <h3>BESTSELLER PRODUCTS</h3>
           </div>
-          <div className="products">
+          <div className="products-3">
             {products?.products.map((product) => (
               <div key={product.id} className="product">
                 <img src={product.thumbnail} alt={product.title} />

@@ -42,7 +42,7 @@ p {
 
 }
 
-@media (max-width: 768px) {
+@media (max-width: 100vw) {
     .features-container{
         display: flex;
         flex-direction: column;

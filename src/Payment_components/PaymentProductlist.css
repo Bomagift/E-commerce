@@ -1,9 +1,4 @@
-.App {
-    font-family: Montserrat;
-    text-align: center;
-    margin: 4rem;
-    padding-left: 3rem;
-  }
+
   
   .App h1 {
     margin: .6rem auto;
@@ -18,7 +13,7 @@
     color: rgba(115, 115, 115, 1);
   }
   
-  .products {
+  .products-3{
     display: flex;
     flex-wrap: wrap;
     gap: 16px;
@@ -59,7 +54,7 @@
   }
 
   @media (max-width: 768px) {
-    .products{
+    .products-3{
         display: none;
     }
   }

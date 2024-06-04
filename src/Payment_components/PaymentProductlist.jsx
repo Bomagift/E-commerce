@@ -58,7 +58,7 @@ export default function PaymentProductlist() {
           <div className="App-header">
             <h1> PRODUCTS RELATED TO ITEMS IN YOUR CART</h1>
           </div>
-          <div className="products">
+          <div className="products-3">
             {products?.products.map((product) => (
               <div key={product.id} className="product">
                 <img src={product.thumbnail} alt={product.title} />

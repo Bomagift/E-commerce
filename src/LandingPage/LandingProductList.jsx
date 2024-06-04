@@ -60,7 +60,7 @@ export default function LandingProductList() {
             <h2>BESTSELLER PRODUCTS</h2>
             <p>Problems trying to resolve the conflict between</p>
           </div>
-          <div className="products-1">
+          <div className="products-2">
             {products?.products.map((product) => (
               <div key={product.id} className="product">
                 <img src={product.thumbnail} alt={product.title} />

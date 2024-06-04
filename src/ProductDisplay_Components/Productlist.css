@@ -15,7 +15,7 @@
     color: rgba(115, 115, 115, 1);
   }
   
-  .products {
+  .products-3{
     display: flex;
     flex-wrap: wrap;
     gap: 16px;
