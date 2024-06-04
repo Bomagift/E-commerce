@@ -76,10 +76,38 @@ cursor: pointer;
     margin-top: 1%;
   }
 
-  @media (max-width: 768px) {
-    .container-large{
-      width: 414px;
-      height: auto;
-
-    }
+  @media screen and (max-width: 768px) {
+   
+      .fourth-container {
+          width: 100%; 
+          height: auto;
+          margin: 10%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+      }
+      .container-large{
+        width: 100%;
+      }
+  
+      .container-large img{
+        width: 110%;
+      }
+      .overlay-1 h2 {
+          font-size: 24px; 
+      }
+  
+      .overlay-1 p {
+          font-size: 12px; 
+      }
+  
+      .overlay-1 h3 {
+          font-size: 20px; 
+      }
+  
+      .overlay-1 button {
+          width: 80%; 
+          max-width: none;
+      }
   }
+  
