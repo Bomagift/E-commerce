@@ -54,7 +54,7 @@
   }
 
   @media (max-width: 768px) {
-    .products-3{
+    .App{
         display: none;
     }
   }

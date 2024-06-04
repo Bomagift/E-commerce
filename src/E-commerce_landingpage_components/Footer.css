@@ -72,7 +72,7 @@
   color: #777;
 }
 
-@media (max-width: 100vw) {
+@media (max-width: 768px) {
   .footer{
     display: flex;
     flex-direction: column;
