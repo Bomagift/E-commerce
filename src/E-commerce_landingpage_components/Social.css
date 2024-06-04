@@ -23,3 +23,9 @@ color: #252B42;
 }
 
 
+@media screen and(max-width:768px) {
+    .social-container{
+        width: 100%;
+    }
+    
+}

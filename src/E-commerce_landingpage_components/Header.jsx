@@ -11,7 +11,7 @@ function Header() {
 
         <span className="email">
           <img src="/Images/Vector (4).png" alt="" className="icon" />
-          <h6>michelle.rivera@example.com</h6>
+          <h6 className="landingpageH6">michelle.rivera@example.com</h6>
         </span>
       </div>
 
